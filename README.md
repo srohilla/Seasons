@@ -8,4 +8,11 @@ An interactive playground built to celebrate the onset of spring season. An audi
 2.	PlaygroundSupport
 3.	AVFoundation
 
+References:
+1.	https://github.com/uraimo/Awesome-Swift-Playgrounds
+2.	https://developer.apple.com/swift/blog/?id=35
+3.	http://www.swift-studies.com/blog/2016/3/9/playing-with-spritekit-in-a-swift-playground
+
+	
+
 
